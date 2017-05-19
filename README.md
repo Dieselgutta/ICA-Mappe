@@ -5,7 +5,7 @@ Samling av ICA01-07
 # Repositories:
 ## ICA01
 * [Repository](https://github.com/Dieselgutta/ICA01)
-* [Dokumentasjon](https://github.com/Dieselgutta/ICA01/blob/master/ICA01.pdf)
+* [Dokumentasjon](https://github.com/Dieselgutta/ICA-Mappe/blob/master/ICA-Mappe.pdf#page=[5])
 ## ICA02
 * [Repository](https://github.com/Dieselgutta/ICA02)
 * [Dokumentasjon](https://github.com/Dieselgutta/ICA01/blob/master/ICA02.pdf)
